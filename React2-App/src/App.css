@@ -1,0 +1,8 @@
+table{
+    background-color: red;
+    width: 100%;
+}
+th{
+    width: 25%;
+    padding: 5px;
+}
