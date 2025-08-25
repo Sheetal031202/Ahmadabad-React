@@ -1,0 +1,26 @@
+h2,span {
+  color: red;
+  font-size: 40px;
+}
+
+button {
+  background-color:rgba(255, 0, 0, 0.497);
+  color: black;
+  padding: 10px 8px;
+  border-radius: 20px;
+  border: 3px solid rgb(185, 22, 22);
+  margin: 10px;
+}
+
+.m {
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  padding: 50px;
+}
+
+h2,
+button,
+span {
+  margin: 10px 0;
+}
