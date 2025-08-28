@@ -8,7 +8,7 @@ function Footer() {
                     <h2>CRYPTO M5</h2>
                     <h3>@cplyright 2025 Mobirise</h3>
                 </div>
-                <div className='b'>
+                <div className='b' >
                     <ul >
                         <li className='c'>TWITTER</li>
                         <li className='c'>FACEBOOK</li>

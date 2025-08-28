@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from './components/navbar'
-import Section from './components/section'
-import Footer from './components/footer'
+import Navbar from './components/Navbar'
+import Section from './components/Section'
+import Footer from './components/Footer'
 function App() {
   return (
     <>

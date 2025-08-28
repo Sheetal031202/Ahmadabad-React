@@ -1,4 +1,5 @@
-li{
+ 
+ li{
     list-style: none;
 }
 
@@ -54,4 +55,5 @@ width: 100%;
  background-color: rgba(128, 0, 128, 0.779);
     border-radius: 20px;
     padding: 5px;
+    margin: 0 5px;
 }
